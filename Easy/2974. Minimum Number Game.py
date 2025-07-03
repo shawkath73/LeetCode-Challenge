@@ -8,6 +8,3 @@ class Solution:
             arr.append(sval)
             arr.append(fval)
         return arr     
-
-        
-        
