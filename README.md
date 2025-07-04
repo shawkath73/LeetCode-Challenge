@@ -1,6 +1,6 @@
 # LeetCode Solutions – Learning Through Practice
 
-This repository contains my personal solutions to problems from [LeetCode](https://leetcode.com/), written in Python.
+This repository contains my personal solutions to problems from [LeetCode](https://leetcode.com/u/Shawkath_Muhammed/), written in Python.
 
 It serves as a part of my continuous learning journey to improve problem-solving skills, strengthen my understanding of data structures and algorithms, and stay consistent with coding practice.
 
