@@ -10,7 +10,6 @@ class Solution(object):
             if i % 6 == 0:
                 answer+=i
                 count+=1
-
         if count == 0:
             return 0
         else:
